@@ -1,0 +1,12 @@
+$ git log
+commit 81c13321406b853c9b27a242b814b3e4157a5b1c (HEAD -> master)
+Author: Maidar Vettel <maydarbatom@gmail.com>
+Date:   Sun Jun 21 13:27:19 2026 +0700
+
+    I announced news about Monza and upcoming Imola track
+
+commit 43a08069535d07ca13fd1aa82dd6ea4908a5df1d
+Author: Maidar Vettel <maydarbatom@gmail.com>
+Date:   Sun Jun 21 13:24:34 2026 +0700
+
+    I added Monza to F1 Circuts
