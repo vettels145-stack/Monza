@@ -1,2 +1,2 @@
 # Monza
-The Autodromo Nazionale Monza, located 20km north of Milan, Italy, is a legendary 5.793 km (3.6 mi) motor racing circuit. Built in 1922 and set within a royal park, it is universally known as the "Temple of Speed" due to its flat-out nature, low-downforce setups, and highest average speeds on the calendar.
+## Max Verstappen’s connection to the Monza circuit is defined by spectacular milestones, historic speed records, and intense rivalries. Known as the "Temple of Speed," the iconic Italian track is where he set the all-time Formula 1 lap record and previously broke the record for the most consecutive Grand Prix victories.
